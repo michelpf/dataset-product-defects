@@ -1,6 +1,6 @@
 # Product Defects
 
-This dataset was originally downloaded from [Kaggle]([https://dadosabertos.tse.jus.br/dataset/resultados-2020-boletim-de-urna](https://www.kaggle.com/datasets/rrighart/jarlids)).
+This dataset was originally downloaded from [Kaggle](https://www.kaggle.com/datasets/rrighart/jarlids).
 
 The goal of this repository is to facilitate the teaching of Python classes with organized data.
 
